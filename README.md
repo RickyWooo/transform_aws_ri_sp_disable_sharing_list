@@ -1,0 +1,1 @@
+# transform_aws_ri_sp_disable_sharing_list
